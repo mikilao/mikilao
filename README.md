@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mikilao
 - 👀 I’m interested in Web development and eCommerce
-- 🌱 I’m currently learning AngularJS, ReactJS and Ruby
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python, ReactJS and Java
+- 💞️ I’m looking to collaborate on Non Profits
 - 📫 How to reach me systemley@gmail.com
 
 <!---
